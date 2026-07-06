@@ -24,11 +24,12 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 ## Technology Proficiency
 
+```mermaid
 xychart-beta
-    title "Product Sales 2026"
-    x-axis [Angular, HTML5, CSS/SCSS, TypeScript, JavaScript, Kotlin, Java, PHP, SQL, Python, C#, VisualBasic.NET]
-    y-axis "" 0 --> 100
-    bar [100, 100, 90, 90, 90, 90, 90, 90, 90, 80, 70, 70]
+    title "Nivel de dominio por tecnología"
+    x-axis ["C#", "VisualBasic.NET", "Python", "SQL", "PHP", "Java", "Kotlin", "JavaScript", "TypeScript", "CSS - SCSS", "HTML5", "Angular"]
+    y-axis "Serie 1" 0 --> 1
+    bar [0.7, 0.7, 0.8, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 1, 1]
 
 
 ## Education
