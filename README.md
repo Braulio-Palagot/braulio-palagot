@@ -11,6 +11,7 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 - **Agenda**: Mobile application for Android developed with Kotlin where users can keep track of their pending tasks.
 - **Pokedex**: Cross-platform mobile application developed with Ionic where users can consult the Pokedex using the PokeAPI.
+- **Finance[private]**: Deferred payment collections manager for a local enterpreneur.
 
 ## Soft Skills
 
@@ -23,7 +24,7 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 ## Technology Proficiency
 
-![Technology Proficiency](https://chart.googleapis.com/chart?cht=bhs&chs=500x300&chd=t:100,100,90,90,90,90,90,90,80,80&chxt=x,y&chxl=1:|Angular|HTML5|TypeScript|JavaScript|Kotlin|Java|PHP|SQL|Django|Python&chxr=0,0,100&chds=0,100&chco=F5F5DC|808000&chbh=20)
+![Technology Proficiency](https://chart.googleapis.com/chart?cht=bhs&chs=500x300&chd=t:100,100,90,90,90,90,90,90,90,80,70&chxt=x,y&chxl=1:|Angular|HTML5|CSS/SCSS|TypeScript|JavaScript|Kotlin|Java|PHP|SQL|Python|C#&chxr=0,0,100&chds=0,100&chco=F5F5DC|808000&chbh=20)
 
 ## Education
 
@@ -37,7 +38,12 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
     
 - **Institution**: TecNM. Campus Orizaba. 
     **Date**: 2019 - 2023. 
-    *Status*: Currently doing professional internships on a FullStack project.
+    *Degree*: Computer Systems Engineering.
+    
+- **Institution**: TecNM. Campus Orizaba. 
+    **Date**: 2019 - 2023.
+    *Degree:* Master's degree in Computer Systems.
+    *Status*: Degree administrarive process in progress.
 
 
 ## Certifications
