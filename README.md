@@ -11,7 +11,8 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 - **Agenda**: Mobile application for Android developed with Kotlin where users can keep track of their pending tasks.
 - **Pokedex**: Cross-platform mobile application developed with Ionic where users can consult the Pokedex using the PokeAPI.
-- **Finance[private]**: Deferred payment collections manager for a local enterpreneur.
+- **Finance[private]**: Deferred payment collections manager Android Application for a local enterpreneur.
+- **Vocabulandia[private]**: Therapeutic videogame for vocabulary acquisition using Natural Language Process.
 
 ## Soft Skills
 
