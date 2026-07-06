@@ -24,13 +24,7 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 ## Technology Proficiency
 
-```mermaid
-xychart-beta
-    title "Nivel de dominio por tecnología"
-    x-axis ["C#", "Visual Basic .NET", "Python", "SQL", "PHP", "Java", "Kotlin", "Java Script", "Type Script", "CSS - SCSS", "HTML5", "Angular"]
-    y-axis "Serie 1" 0 --> 1
-    bar [0.7, 0.7, 0.8, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 0.9, 1, 1]
-```
+![Nivel de dominio por tecnología](assets/skills-chart.svg)
 
 
 ## Education
