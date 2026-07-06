@@ -24,37 +24,30 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 ## Technology Proficiency
 
-![Technology Proficiency](https://chart.googleapis.com/chart?cht=bhs&chs=500x300&chd=t:100,100,90,90,90,90,90,90,90,80,70&chxt=x,y&chxl=1:|Angular|HTML5|CSS/SCSS|TypeScript|JavaScript|Kotlin|Java|PHP|SQL|Python|C#&chxr=0,0,100&chds=0,100&chco=F5F5DC|808000&chbh=20)
+xychart-beta
+    title "Product Sales 2026"
+    x-axis [Angular, HTML5, CSS/SCSS, TypeScript, JavaScript, Kotlin, Java, PHP, SQL, Python, C#, VisualBasic.NET]
+    y-axis "" 0 --> 100
+    bar [100, 100, 90, 90, 90, 90, 90, 90, 90, 80, 70, 70]
+
 
 ## Education
 
-- **Institution**: ICEC.
-
-    **Date**: 2015 - 2016.
-  
+- **Institution**: ICEC. 
+    **Date**: 2015 - 2016. 
     *Degree*: Computer Technician.
-  
 
-- **Institution**: CBTis 142.
-  
-    **Date**: 2016 - 2019.
-  
+- **Institution**: CBTis 142. 
+    **Date**: 2016 - 2019. 
     *Degree*: Programming Technician.
-  
     
-- **Institution**: TecNM. Campus Orizaba.
-  
-    **Date**: 2019 - 2023.
-  
+- **Institution**: TecNM. Campus Orizaba. 
+    **Date**: 2019 - 2023. 
     *Degree*: Computer Systems Engineering.
-  
     
-- **Institution**: TecNM. Campus Orizaba.
-  
+- **Institution**: TecNM. Campus Orizaba. 
     **Date**: 2019 - 2023.
-
     *Degree:* Master's degree in Computer Systems.
-  
     *Status*: Degree administrarive process in progress.
 
 
