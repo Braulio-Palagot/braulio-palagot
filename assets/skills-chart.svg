@@ -31,49 +31,49 @@
   <!-- Barras -->
   <text x="20" y="83" class="label">C#</text>
   <rect x="170" y="68" width="322" height="18" class="bar"/>
-  <text x="502" y="83" class="value">0.7</text>
+  <text x="502" y="83" class="value">70%</text>
 
   <text x="20" y="113" class="label">VisualBasic.NET</text>
   <rect x="170" y="98" width="322" height="18" class="bar"/>
-  <text x="502" y="113" class="value">0.7</text>
+  <text x="502" y="113" class="value">70%</text>
 
   <text x="20" y="143" class="label">Python</text>
   <rect x="170" y="128" width="368" height="18" class="bar"/>
-  <text x="548" y="143" class="value">0.8</text>
+  <text x="548" y="143" class="value">80%</text>
 
   <text x="20" y="173" class="label">SQL</text>
   <rect x="170" y="158" width="414" height="18" class="bar"/>
-  <text x="594" y="173" class="value">0.9</text>
+  <text x="594" y="173" class="value">90%</text>
 
   <text x="20" y="203" class="label">PHP</text>
   <rect x="170" y="188" width="414" height="18" class="bar"/>
-  <text x="594" y="203" class="value">0.9</text>
+  <text x="594" y="203" class="value">90%</text>
 
   <text x="20" y="233" class="label">Java</text>
   <rect x="170" y="218" width="414" height="18" class="bar"/>
-  <text x="594" y="233" class="value">0.9</text>
+  <text x="594" y="233" class="value">90%</text>
 
   <text x="20" y="263" class="label">Kotlin</text>
   <rect x="170" y="248" width="414" height="18" class="bar"/>
-  <text x="594" y="263" class="value">0.9</text>
+  <text x="594" y="263" class="value">90%</text>
 
   <text x="20" y="293" class="label">JavaScript</text>
   <rect x="170" y="278" width="414" height="18" class="bar"/>
-  <text x="594" y="293" class="value">0.9</text>
+  <text x="594" y="293" class="value">90%</text>
 
   <text x="20" y="323" class="label">TypeScript</text>
   <rect x="170" y="308" width="414" height="18" class="bar"/>
-  <text x="594" y="323" class="value">0.9</text>
+  <text x="594" y="323" class="value">90%</text>
 
   <text x="20" y="353" class="label">CSS - SCSS</text>
   <rect x="170" y="338" width="414" height="18" class="bar"/>
-  <text x="594" y="353" class="value">0.9</text>
+  <text x="594" y="353" class="value">90%</text>
 
   <text x="20" y="383" class="label">HTML5</text>
   <rect x="170" y="368" width="460" height="18" class="bar"/>
-  <text x="640" y="383" class="value">1.0</text>
+  <text x="640" y="383" class="value">100%</text>
 
   <text x="20" y="413" class="label">Angular</text>
   <rect x="170" y="398" width="460" height="18" class="bar"/>
-  <text x="640" y="413" class="value">1.0</text>
+  <text x="640" y="413" class="value">100%</text>
 </svg>
