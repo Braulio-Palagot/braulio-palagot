@@ -29,21 +29,33 @@ Proactive software developer. Ability to lead or work in a team efficiently. Sol
 
 ## Education
 
-- **Institution**: ICEC. 
-    **Date**: 2015 - 2016. 
+- **Institution**: ICEC.
+  
+    **Date**: 2015 - 2016.
+  
     *Degree*: Computer Technician.
 
-- **Institution**: CBTis 142. 
-    **Date**: 2016 - 2019. 
+
+- **Institution**: CBTis 142.
+  
+    **Date**: 2016 - 2019.
+  
     *Degree*: Programming Technician.
+
     
-- **Institution**: TecNM. Campus Orizaba. 
-    **Date**: 2019 - 2023. 
-    *Degree*: Computer Systems Engineering.
-    
-- **Institution**: TecNM. Campus Orizaba. 
+- **Institution**: TecNM. Campus Orizaba.
+  
     **Date**: 2019 - 2023.
+  
+    *Degree*: Computer Systems Engineering.
+
+    
+- **Institution**: TecNM. Campus Orizaba.
+  
+    **Date**: 2019 - 2023.
+  
     *Degree:* Master's degree in Computer Systems.
+  
     *Status*: Degree administrarive process in progress.
 
 
