@@ -1,0 +1,79 @@
+<svg width="760" height="470" viewBox="0 0 760 470" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 700 22px Arial, sans-serif; fill: #222; }
+    .label { font: 14px Arial, sans-serif; fill: #222; }
+    .value { font: 13px Arial, sans-serif; fill: #444; }
+    .axis { stroke: #222; stroke-width: 1.5; }
+    .grid { stroke: #ddd; stroke-width: 1; }
+    .bar { fill: #d9d9f3; rx: 4; }
+  </style>
+
+  <text x="380" y="35" text-anchor="middle" class="title">Nivel de dominio por tecnología</text>
+
+  <!-- Grid -->
+  <line x1="170" y1="60" x2="170" y2="420" class="grid"/>
+  <line x1="285" y1="60" x2="285" y2="420" class="grid"/>
+  <line x1="400" y1="60" x2="400" y2="420" class="grid"/>
+  <line x1="515" y1="60" x2="515" y2="420" class="grid"/>
+  <line x1="630" y1="60" x2="630" y2="420" class="grid"/>
+
+  <!-- Ejes -->
+  <line x1="170" y1="420" x2="630" y2="420" class="axis"/>
+  <line x1="170" y1="60" x2="170" y2="420" class="axis"/>
+
+  <!-- Etiquetas del eje X -->
+  <text x="170" y="445" text-anchor="middle" class="label">0</text>
+  <text x="285" y="445" text-anchor="middle" class="label">0.25</text>
+  <text x="400" y="445" text-anchor="middle" class="label">0.50</text>
+  <text x="515" y="445" text-anchor="middle" class="label">0.75</text>
+  <text x="630" y="445" text-anchor="middle" class="label">1.00</text>
+
+  <!-- Barras -->
+  <text x="20" y="83" class="label">C#</text>
+  <rect x="170" y="68" width="322" height="18" class="bar"/>
+  <text x="502" y="83" class="value">0.7</text>
+
+  <text x="20" y="113" class="label">VisualBasic.NET</text>
+  <rect x="170" y="98" width="322" height="18" class="bar"/>
+  <text x="502" y="113" class="value">0.7</text>
+
+  <text x="20" y="143" class="label">Python</text>
+  <rect x="170" y="128" width="368" height="18" class="bar"/>
+  <text x="548" y="143" class="value">0.8</text>
+
+  <text x="20" y="173" class="label">SQL</text>
+  <rect x="170" y="158" width="414" height="18" class="bar"/>
+  <text x="594" y="173" class="value">0.9</text>
+
+  <text x="20" y="203" class="label">PHP</text>
+  <rect x="170" y="188" width="414" height="18" class="bar"/>
+  <text x="594" y="203" class="value">0.9</text>
+
+  <text x="20" y="233" class="label">Java</text>
+  <rect x="170" y="218" width="414" height="18" class="bar"/>
+  <text x="594" y="233" class="value">0.9</text>
+
+  <text x="20" y="263" class="label">Kotlin</text>
+  <rect x="170" y="248" width="414" height="18" class="bar"/>
+  <text x="594" y="263" class="value">0.9</text>
+
+  <text x="20" y="293" class="label">JavaScript</text>
+  <rect x="170" y="278" width="414" height="18" class="bar"/>
+  <text x="594" y="293" class="value">0.9</text>
+
+  <text x="20" y="323" class="label">TypeScript</text>
+  <rect x="170" y="308" width="414" height="18" class="bar"/>
+  <text x="594" y="323" class="value">0.9</text>
+
+  <text x="20" y="353" class="label">CSS - SCSS</text>
+  <rect x="170" y="338" width="414" height="18" class="bar"/>
+  <text x="594" y="353" class="value">0.9</text>
+
+  <text x="20" y="383" class="label">HTML5</text>
+  <rect x="170" y="368" width="460" height="18" class="bar"/>
+  <text x="640" y="383" class="value">1.0</text>
+
+  <text x="20" y="413" class="label">Angular</text>
+  <rect x="170" y="398" width="460" height="18" class="bar"/>
+  <text x="640" y="413" class="value">1.0</text>
+</svg>
