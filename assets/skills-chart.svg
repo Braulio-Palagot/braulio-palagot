@@ -22,11 +22,11 @@
   <line x1="170" y1="60" x2="170" y2="420" class="axis"/>
 
   <!-- Etiquetas del eje X -->
-  <text x="170" y="445" text-anchor="middle" class="label">0</text>
-  <text x="285" y="445" text-anchor="middle" class="label">0.25</text>
-  <text x="400" y="445" text-anchor="middle" class="label">0.50</text>
-  <text x="515" y="445" text-anchor="middle" class="label">0.75</text>
-  <text x="630" y="445" text-anchor="middle" class="label">1.00</text>
+  <text x="170" y="445" text-anchor="middle" class="label">0%</text>
+  <text x="285" y="445" text-anchor="middle" class="label">25%</text>
+  <text x="400" y="445" text-anchor="middle" class="label">50%</text>
+  <text x="515" y="445" text-anchor="middle" class="label">75%</text>
+  <text x="630" y="445" text-anchor="middle" class="label">100%</text>
 
   <!-- Barras -->
   <text x="20" y="83" class="label">C#</text>
